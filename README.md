@@ -16,6 +16,7 @@
   <!--  <img src="images/logo.png" alt="Logo" width="80" height="80">-->
   <!--</a>-->
 
+
   <h3 align="center">Language Translator ML</h3>
   <h4 align="center">In progress</h4>
 
@@ -25,12 +26,17 @@
     <a href="https://github.com/wesujs/Language-Translator-ML"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/wesujs/Language-Translator-ML">View Demo</a>
-    ·
     <a href="https://github.com/wesujs/Language-Translator-ML/issues">Report Bug</a>
     ·
     <a href="https://github.com/wesujs/Language-Translator-ML/issues">Request Feature</a>
   </p>
+    <a href="">
+    <img src="https://cdn.discordapp.com/attachments/839002071759192064/1284623532650926277/f3a605d8d8993e723b841cfa182e3108.png?ex=66e74e65&is=66e5fce5&hm=b561f141a313ad443936a7e7f1199d2bfd2fc4a26c7afc8e64a684ef2e34b9e2&" alt="Log In Page"/>
+  </a>
+  
+  <a href="">
+      <img src="https://cdn.discordapp.com/attachments/839002071759192064/1284623495711555666/8c1f3634ea16ba6a8600e3d27f9b2826.png?ex=66e74e5c&is=66e5fcdc&hm=afe9f01d971a07e39f0eefd98f73ccc590ecfb64e570096786a669cef6d3febe&" alt="Translator Page"/>
+  </a>
 </div>
 
 <!-- TABLE OF CONTENTS -->
