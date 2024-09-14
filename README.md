@@ -30,11 +30,7 @@
     ·
     <a href="https://github.com/wesujs/Language-Translator-ML/issues">Request Feature</a>
   </p>
-
     <img src="https://cdn.discordapp.com/attachments/839002071759192064/1284623532650926277/f3a605d8d8993e723b841cfa182e3108.png?ex=66e74e65&is=66e5fce5&hm=b561f141a313ad443936a7e7f1199d2bfd2fc4a26c7afc8e64a684ef2e34b9e2&" alt="Log In Page"/>
-
-  
-
       <img src="https://media.discordapp.net/attachments/839002071759192064/1284626146943696957/1587105129c40db453591206fd120db7.png?ex=66e750d4&is=66e5ff54&hm=685166a8cce0a3a225001da8100a63091a32a934e9b6d668c0b3480cbb4103c2&=&format=webp&quality=lossless&width=1332&height=1315" alt="Translator Page"/>
 
 </div>
